@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|C:\\Users\\liamp\\Downloads\\PROG_Part_2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|solutionrelative:recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|C:\\Users\\liamp\\Downloads\\PROG_Part_2\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|solutionrelative:ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|C:\\Users\\liamp\\Downloads\\PROG_Part_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|c:\\users\\liamp\\downloads\\prog_part_2\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ADBB1D-1A6F-4054-9A70-E238BEBA1DE6}|PROG_Part_2.csproj|solutionrelative:recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe.cs",
+              "ToolTip": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\Recipe.cs",
+              "RelativeToolTip": "Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:28:29.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:16:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Ingredient.cs",
+              "ToolTip": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\Ingredient.cs",
+              "RelativeToolTip": "Ingredient.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:25:04.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "RecipeManager.cs",
+              "ToolTip": "C:\\Users\\liamp\\Downloads\\PROG_Part_2\\RecipeManager.cs",
+              "RelativeToolTip": "RecipeManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:27:21.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -19,6 +19,13 @@ namespace RecipeApp
             Name = name;
             Ingredients = new List<Ingredient>();
             Steps = new List<string>();
+        }
+        //Method to display Recipe details
+        public void Display()
+        {
+            Console.WriteLine($"\nRecipe: {Name}");
+            Console.WriteLine("\nIngredients:");
+
 
 /*https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/
 https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/

@@ -10,4 +10,8 @@ namespace RecipeApp
         public string Unit { get; set; }
         public int Calories { get; set; }
         public string FoodGroup { get; set; }
+        public Ingredient(string name, double quantity, string unit, int calories, string foodGroup)
+        {
+            Name = name;
+            Quantity = quantity;
 

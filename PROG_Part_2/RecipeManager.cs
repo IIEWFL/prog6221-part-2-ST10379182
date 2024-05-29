@@ -12,3 +12,8 @@ namespace RecipeApp
     {
         Console.Write("Enter the name of the recipe: ");
         string name = Console.ReadLine();
+        Recipe recipe = new Recipe(name);
+        recipe.OnHighCalories += ShowCalorieWarning;
+
+        Console.Write("Enter the number of ingredients: ");
+        int ingredientCount = int.Parse(Console.ReadLine());

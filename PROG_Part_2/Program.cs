@@ -18,3 +18,8 @@ namespace RecipeApp
                 int option = int.Parse(Console.ReadLine());
 
                 switch (option)
+                 switch (option)
+                {
+                    case 1:
+                        RecipeManager.AddRecipe();
+                        break;
